@@ -4,5 +4,5 @@
 
 #### Please find my certificates in this repo. 
 
-#### Warmest Regards
-#### Megha Gowadiya
+Warmest Regards <br/>
+Megha Gowadiya

@@ -1,8 +1,8 @@
 # my-certificates
 
-### Hello there!
+#### Hello there!
 
-### Please find my certificates in this repo. 
+#### Please find my certificates in this repo. 
 
-### Warmest Regards
-### Megha Gowadiya
+#### Warmest Regards
+#### Megha Gowadiya
